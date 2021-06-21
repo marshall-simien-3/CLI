@@ -1,0 +1,11 @@
+systeminfo
+		Generates hardware / software / firmware info regarding your computer.
+    
+ipconfig
+		Shows network adapter/card info for your computer.
+    
+nslookup [ip address]
+		Looksup hostname of the attached ip address.
+    
+ping [ip address]
+		Pings the attached ip address for communication traffic.
